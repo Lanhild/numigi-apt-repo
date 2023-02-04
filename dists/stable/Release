@@ -6,16 +6,16 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: Numigi custom packages repository
-Date: Sat, 04 Feb 2023 01:46:54 +0000
+Date: Sat, 04 Feb 2023 01:59:26 +0000
 MD5Sum:
  e348ff23062bfe5315176d55d89c666e 620 gen-prerel
- f0b08b2ac506098fe6a4f3e56cd006ce 1524 main/binary-amd64/Packages.gz
- 29bef2e59ff0a1d186c34ca69b88001d 5456 main/binary-amd64/Packages
+ 18012a63b60c676143779fd8cc63ecb7 1630 main/binary-amd64/Packages.gz
+ e4dcc1191f97f70f06fd831236f5d3b5 6127 main/binary-amd64/Packages
 SHA1:
  8497a5bc283dbbd422f5481972ecd023e98c641d 620 gen-prerel
- 7f2b47a73ba8bdc47d3e4e1a3462b5b2cbbb3710 1524 main/binary-amd64/Packages.gz
- f3ef823ad4e2fc0cb5923c54f7468e7c25221e5c 5456 main/binary-amd64/Packages
+ 0c963dcdccc8ef77bed4cad48a8fb7085d431e9f 1630 main/binary-amd64/Packages.gz
+ 33caa339ef1633e71f74fadea2e601015d8c2f89 6127 main/binary-amd64/Packages
 SHA256:
  56dced064ab9a9a67e54e51f222e78b4bca2c37249a46839d000d36729d9d849 620 gen-prerel
- c8e290aab4857c7def4852843e557ed69a70a41a9100704268c2c03dd2a51a9b 1524 main/binary-amd64/Packages.gz
- 08cf76af756c31fdac11f2609b7ab0fb2cfb2691a31fac5f54492c4ed21cf255 5456 main/binary-amd64/Packages
+ 687649c0de2a4891ecc5396a7e53176e6a954e2c6a68945919c005e54c350b9f 1630 main/binary-amd64/Packages.gz
+ a1366578214a8121ee0b7b4ea61c30ccde0c6816b8cb9a922df2d641999e0496 6127 main/binary-amd64/Packages

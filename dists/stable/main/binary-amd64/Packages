@@ -160,3 +160,21 @@ Description: Numigi blank metapackage used to install a group of packages presen
 License: agpl3
 Vendor: none
 
+Package: numigi-meta
+Version: 1.6
+Architecture: all
+Maintainer: @Lanhild <joliveau.loan@gmail.com>
+Installed-Size: 0
+Depends: numigi-hooks, libreoffice, flameshot, kazam, gimp, vlc, deja-dup, peek, firefox, google-chrome-stable, albert
+Filename: pool/main/numigi-meta-1.6-any.deb
+Size: 1680
+MD5sum: c1942bca680edc7f57d013b20ca919fb
+SHA1: 3ae435b70f1336cd1eb37b66771d430d3cd90aa3
+SHA256: c20eca0f00f1a008544d058998459cc407f7229102d128d295787ef59f30e35e
+Section: default
+Priority: optional
+Homepage: https://github.com/Lanhild/numigi-meta
+Description: Numigi blank metapackage used to install a group of packages present in the main repository
+License: agpl3
+Vendor: none
+
