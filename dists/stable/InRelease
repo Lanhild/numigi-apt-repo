@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Numigi repository
+Label: numigi-apt-repo
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 arm64 arm7
+Components: main
+Description: Numigi custom packages repository
+Date: Sat, 04 Feb 2023 01:46:54 +0000
+MD5Sum:
+ e348ff23062bfe5315176d55d89c666e 620 gen-prerel
+ f0b08b2ac506098fe6a4f3e56cd006ce 1524 main/binary-amd64/Packages.gz
+ 29bef2e59ff0a1d186c34ca69b88001d 5456 main/binary-amd64/Packages
+SHA1:
+ 8497a5bc283dbbd422f5481972ecd023e98c641d 620 gen-prerel
+ 7f2b47a73ba8bdc47d3e4e1a3462b5b2cbbb3710 1524 main/binary-amd64/Packages.gz
+ f3ef823ad4e2fc0cb5923c54f7468e7c25221e5c 5456 main/binary-amd64/Packages
+SHA256:
+ 56dced064ab9a9a67e54e51f222e78b4bca2c37249a46839d000d36729d9d849 620 gen-prerel
+ c8e290aab4857c7def4852843e557ed69a70a41a9100704268c2c03dd2a51a9b 1524 main/binary-amd64/Packages.gz
+ 08cf76af756c31fdac11f2609b7ab0fb2cfb2691a31fac5f54492c4ed21cf255 5456 main/binary-amd64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCgA2FiEElA9lVBg2h0XnXBam4dLWGYOjNeUFAmPduVUYHGpvbGl2ZWF1
+LmxvYW5AZ21haWwuY29tAAoJEOHS1hmDozXlj74P/0epmY5C0gPWLbltJFJQwTqH
+2kN2Ow6MJE1bhkiTXG/U9teFdzC62GFt0FAffxEFjk+Jy7Pf0XR+FqwO7Mtpg4e4
+pIcILt/QoZusPdSUFewVl2cgiX12Sn82IuGe6IqQio7cezfjLyg6X+hBjNURip+g
+GDu2xuetljiywBcCbab4TN/275GTtfkkJw0VioqQWG/bozkcIOp2MPfgMfzzpMcG
+1ggIkZqVyDxdkTXm6bloyXlXyOPPTQXkk8L5rxr/vZ+ptkyTojyrjIASqjvv4qB8
+3nB31wUJwdv7zIcWxW0/5q5+8gy3ep8KvO4l+iwqskhg4fqCMvl6dek7PKyHuju9
+v/d+Hq+fG7nZbsK0uEZD8jDGvqZo6YYPzmlNiG3OCTz60FxrjFIdsBvSjrx2njZT
+FN68V9Ym//PFgp6st52PykJU55XBVb1y6/tpwwlXYoSE6FkaAYefyR6ORArB6B2e
+ZxIh2Tll5xA+zJ2jB5Dv40ezEahrIZu4sfKAZj89/GQQSyVGnKuzfcHbnu5Hx6rM
+xJ76yH1MZc6JBKag+wrjCAzavK+3qzomP5aW3qyey48bFCUSB9S8AXEKsIorOl04
++pnRP4OTyNBWBrJieIVWEEOsuo1CqsdO5tOOymkk/EEnp8rLKf+u4XzeJ1vMDA5Q
+m2/WXO0Fgs5QSD2i5Tdq
+=pfn5
+-----END PGP SIGNATURE-----
