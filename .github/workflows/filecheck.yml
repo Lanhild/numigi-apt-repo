@@ -13,7 +13,7 @@ jobs:
         id: check_files
         uses: andstor/file-existence-action@v2
         with:
-          files: "KEY.asc, LICENSE, README.md, dists/stable/InRelease, dists/stable/Release.gpg, dists/stable/Release"
+          files: "KEY.asc, LICENSE, README.md, dists/stable/InRelease, dists/stable/Release.gpg, dists/stable/Release, dists/stable/main/*"
 
       - name: File exists
         if: steps.check_files.outputs.files_exists == 'true'
