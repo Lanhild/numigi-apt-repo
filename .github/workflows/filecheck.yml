@@ -1,0 +1,21 @@
+name: "File existence check"
+
+on: [push, pull_request]
+
+jobs:
+  file_existence:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Check file existence
+        id: check_files
+        uses: andstor/file-existence-action@v2
+        with:
+          files: "KEY.asc, LICENSE, README.md, dists/stable/InRelease, dists/stable/Release.gpg, dists/stable/Release"
+
+      - name: File exists
+        if: steps.check_files.outputs.files_exists == 'true'
+        # Only runs if all of the files exists
+        run: echo All files exists!
