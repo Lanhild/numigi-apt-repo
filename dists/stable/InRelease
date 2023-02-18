@@ -9,33 +9,38 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: Numigi custom packages repository
-Date: Sat, 04 Feb 2023 01:59:26 +0000
+Date: Sat, 18 Feb 2023 21:47:02 +0000
+Date: Sat, 18 Feb 2023 21:47:02 +0000
 MD5Sum:
- e348ff23062bfe5315176d55d89c666e 620 gen-prerel
- 18012a63b60c676143779fd8cc63ecb7 1630 main/binary-amd64/Packages.gz
- e4dcc1191f97f70f06fd831236f5d3b5 6127 main/binary-amd64/Packages
+ 955c65f6b499ff0fe2a09be81ee26505              265 Release
+ e4dcc1191f97f70f06fd831236f5d3b5             6127 main/binary-amd64/Packages
+ 91b281edb1a7e6ee95900d0254e11db9             1644 main/binary-amd64/Packages.gz
 SHA1:
- 8497a5bc283dbbd422f5481972ecd023e98c641d 620 gen-prerel
- 0c963dcdccc8ef77bed4cad48a8fb7085d431e9f 1630 main/binary-amd64/Packages.gz
- 33caa339ef1633e71f74fadea2e601015d8c2f89 6127 main/binary-amd64/Packages
+ 2f61ebe1ad04ef01ea1655bcd4d6852a3e7a6c37              265 Release
+ 33caa339ef1633e71f74fadea2e601015d8c2f89             6127 main/binary-amd64/Packages
+ 4793e73446641628e874bb212e5c381d3ecc77fd             1644 main/binary-amd64/Packages.gz
 SHA256:
- 56dced064ab9a9a67e54e51f222e78b4bca2c37249a46839d000d36729d9d849 620 gen-prerel
- 687649c0de2a4891ecc5396a7e53176e6a954e2c6a68945919c005e54c350b9f 1630 main/binary-amd64/Packages.gz
- a1366578214a8121ee0b7b4ea61c30ccde0c6816b8cb9a922df2d641999e0496 6127 main/binary-amd64/Packages
+ 3f1a51873e1ccfee5085d133d6a536ca2ff1a0c81f48b116a2d885d24bcdf6d7              265 Release
+ a1366578214a8121ee0b7b4ea61c30ccde0c6816b8cb9a922df2d641999e0496             6127 main/binary-amd64/Packages
+ 02d88af133fde4c5b666659dda6446a3fe6257ce33961a1d4982228a43e647c6             1644 main/binary-amd64/Packages.gz
+SHA512:
+ 0af56a878f68eb9e20806456250cb32aadc3c68e5ae8a74afc20f04bd670c4ba397ec7dc755b5ee58b35dbc7ed8f6cc7ece02ec727190fc5ff124b8a2ee11ebc              265 Release
+ 6804662f4d8fa39764c8c683de414e78ba3a50d1fca0f00502ceb91d0a83873de791edc93742bd0ff5f76d35da69b26b9574e4b46e0325c136037169547a8218             6127 main/binary-amd64/Packages
+ ee4bbea219dfe4ffe25eeb042196c1b18b0d9b206ce546d8dd057ab256eee03e247ac44515bcb79e73c9fdc526897a24c751d7d2880cda99e7a1570c06efb816             1644 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJMBAEBCgA2FiEElA9lVBg2h0XnXBam4dLWGYOjNeUFAmPdvB0YHGpvbGl2ZWF1
-LmxvYW5AZ21haWwuY29tAAoJEOHS1hmDozXlsI4P/1aamN5dFR379NR/7VG/d1GM
-MDExtnY1lDfvatfnb2KyXMMYvCMyFUT5huiZJMnG50JdR3220hD1hNvp+MmqZ/Sr
-+FQwqvR59Jb1doMxNnDT5l6Mganirlj7BZsFWpUg8wXEIs9bscUkF0pUX4X6vJp1
-2nMLO12SpPRw2eUc/bs7DrB1wXSIjwNRVwpNxajtrKVXIZQl4jLdeLmW6YDKU9DM
-a19kyhzu2jhLEAycZ+SErKH0OlOAw0r13bdH4/gAG7/20JmEGsDMdXGu1H9boWNC
-7THIGxy9bAD+UQlRa+4JziZjKJiNakbstLH6JpDOgcj+AXQgxRfb/9OBSUHE6Uja
-zqsCiK+aB3BTjjIB1o4Jd3NtbbqST9+ohYE4JZDwhdjSTIcr0AMN6M1IWH2f1Z7P
-XTFIHQ7uNWrAqS9oVjmma3P+sLeog7t0YXQPNyTq3JuwQs3NLQ8VSAZRQBC8Jnhq
-HI7VZujkTJlAcLttCNJUyAr5F0d+sWg7gCTpCjqKrITvBT5jg6FMArFUM/hsRuOn
-gAlsH4JsorWnRLk0C4sHjgD6bIpoa2er13Diec4UzYtcmUrJcn8Ri6gl9wMhD/3u
-SQaMgYnQD9xlKb7eW+WyGlRGEGfsAzRP+zW0yMn5iEL+IuowBtR48/PqSwBOgtDY
-DJs+qY3QRWq8i55hVyAd
-=f7sA
+iQJMBAEBCgA2FiEElA9lVBg2h0XnXBam4dLWGYOjNeUFAmPxR1kYHGpvbGl2ZWF1
+LmxvYW5AZ21haWwuY29tAAoJEOHS1hmDozXlfKoP/RkCsAxo/sKLwCG2YOnEXPeH
+svtHwwn4bJTanll442jLcDzCdWxTke5v4MYmkUGp3AtdD4VgVuoBYky9DMaHThIY
+FI8V3990OFnY0IhA1CJWkGfC6jnbrzNMSUyOsN1f9Pigb+i5EI+wpnwT5f8DUYfh
+1xGMuhRBIX3ErH9N+THU388bmCSsjQLPihaH3ZDC/c/PK6R9HdSD62Z7ZXR67pHb
+lu9U0yGgyP4Wyh2vKYCjwuhCErMrFkHryp+RH0logOpDwJ7WhF8B+EWkWSo/xwYi
+0YYkdvmgziOM4RPorNK4RO6Qgc+arsOlwbvI1vkboo8OSg1QYyvnrzfrgeZG+Yag
+RiwFxalif0R3iLhYT/N1w8IFAhOb8qa+BkHi2comvTvVbf9zXgn0K33RZfOv2PLY
+4IXXNcqY/viYSDzbLIzwHWOt+OATshckt801sRqU4g+/eF03a632ZjJTsmLRWoxp
+x6+4AdrdvMb/yxPrnseDEPZsnwwyg2bXLnIrwHrgIdeJozmDl+tpPsVPztl0Iqu9
+6IMS0UqC6QZ0rx3FUNHPo03vpM8zC3z06MvHAXVCehGka/DvM9xgNRjDdR/0scm5
+yMMZtNLrRXf81+8z2I0l6c9OX7dA6h8THWtLk2QccQC/KeuxIJdWCOAUM1bQ7b5o
+LlbXifUd7Y7cs+G6HIZG
+=Y7cQ
 -----END PGP SIGNATURE-----
