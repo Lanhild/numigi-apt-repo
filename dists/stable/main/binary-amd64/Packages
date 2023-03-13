@@ -268,3 +268,21 @@ Description: Numigi blank metapackage used to install a group of packages presen
 License: agpl3
 Vendor: none
 
+Package: numigi-meta
+Version: 1.7.1
+Architecture: all
+Maintainer: @Lanhild <joliveau.loan@gmail.com>
+Installed-Size: 0
+Depends: numigi-hooks, numigi-hooks-theming, libreoffice, flameshot, kazam, gimp, vlc, deja-dup, peek, firefox, google-chrome-stable, albert
+Filename: pool/main/numigi-meta-1.7.1-any.deb
+Size: 1782
+MD5sum: f0abfdc47798d2f7930381ee0c0c03b6
+SHA1: 9b0aa3f9c7e54cb90faba2df57b7184741d7127f
+SHA256: 065c6802d7dfbad15e1d951ffb8ecae057c0c703a9f801008efa7bac069709a0
+Section: default
+Priority: optional
+Homepage: https://github.com/Lanhild/numigi-meta
+Description: Numigi blank metapackage used to install a group of packages present in the main repository
+License: agpl3
+Vendor: none
+
