@@ -6,21 +6,20 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: Numigi custom packages repository
-Date: Mon, 13 Mar 2023 18:58:58 +0000
-Date: Mon, 13 Mar 2023 18:58:58 +0000
+Date: Sun, 26 Mar 2023 00:35:26 +0000
 MD5Sum:
- 6ef79d1fceaf2fb3805d493e6210dbe5              265 Release
- e514cde7f7acf2f91c01e4c06f9d6d06            11166 main/binary-amd64/Packages
- ab7a2f17bd9bd32b1a5cd989826c28c4             2572 main/binary-amd64/Packages.gz
+ c6c382f8fba6e3dd4582e2d61025aa6e              227 Release
+ cd75fa7848081e338b721a068e41dcad            11731 main/binary-amd64/Packages
+ 7e8932b3039e14228a6f0df3a32e0552             2682 main/binary-amd64/Packages.gz
 SHA1:
- e809646bf819cd02326047add6774486465b268b              265 Release
- 3117e8f1b204fd900769059fa077374041671891            11166 main/binary-amd64/Packages
- 2da3ff50a90d190a778ba67a5207db92b0ffe9a0             2572 main/binary-amd64/Packages.gz
+ 1482cc3779e26f8ce34f40ad270233ab2855a934              227 Release
+ 1b9ec634ea82bb19f4949d25d6087620263161af            11731 main/binary-amd64/Packages
+ 3e3339ea3a80d0646288bbee9f4613d485b78886             2682 main/binary-amd64/Packages.gz
 SHA256:
- 6558b7de7a24b402873ab07b78c0c0a30be6fa0dc54d0b48cac9b392859663b0              265 Release
- 5df78f09aee23b781b507806e3b1f3eb0a1a2ff48c5f0f7ba76ba97a76c4384d            11166 main/binary-amd64/Packages
- 3335bfcb7835bcd96ec5eabd780988336aca5e9811f49d8f01fadf790f527488             2572 main/binary-amd64/Packages.gz
+ 3172748b54f21acdfa7b5582cedb0811458c4b35dece4b698b35a20a8dbf8d2a              227 Release
+ afca62b5ed9974aafb66c98eab8f1e5626726fe52d7427d8456d23bcb034d36e            11731 main/binary-amd64/Packages
+ b511877257aa6d1c074266c0dfae8e2d21027c108c51dd154b10b75f94751685             2682 main/binary-amd64/Packages.gz
 SHA512:
- 30f1cd9d8ac78cbb829910681418fe773a95bcc9f910cac3c714472e6ce3563f4678c92f1d587991357786e2c4b1680cfe1871215bc0fb5a5491445299f3985e              265 Release
- 859bb9c47f2473a0d36e77576a5a83e30522b82961e7abd74dcf411952b49eae7c5c8e69860ba208f842bcbb4e776a1b8429fd482d391098c2b9c540c1744bf3            11166 main/binary-amd64/Packages
- 3053e528291f5006630277583a6636b64bfa5391041a303ff79578b278294c7aa2c33e9ac8829c2bb550ae373a117b6211d705745f1cd4bf747063e920a847cb             2572 main/binary-amd64/Packages.gz
+ e073ac59b64a453ef4a03d53f55e3781ede7817621f8149551dd0b72207ef5d658eb79b288f4e05e071689a6c46cd4ac26d21e02c1c5b7fc7b5e8f5815da7ce8              227 Release
+ 1b18ac0171072ac0ecc5bd18efe5dad4d499bfb7bbd7e424f1ea8bd1ede747157cd2b2398eb6cb4dca1098e82d0f975f2df7d95ebfa1baaa157af4737c740d08            11731 main/binary-amd64/Packages
+ 035387813ce1e32f95735efa3fa196d2567d6ca327014a5a9c98b35f36c77b82b8b1fcde1b0c7c36289a4590d8aa11f49fced94e0ec94cc83a74d5a3d0f62eb1             2682 main/binary-amd64/Packages.gz

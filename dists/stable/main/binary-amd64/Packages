@@ -70,6 +70,24 @@ Description: Numigi installation hooks for various third-party applications
 License: agpl3
 Vendor: none
 
+Package: numigi-hooks
+Version: 1.0.1
+Architecture: all
+Maintainer: @Lanhild <joliveau.loan@gmail.com>
+Installed-Size: 1
+Depends: apt-transport-https, curl
+Filename: pool/main/numigi-hooks-1.0.1-any.deb
+Size: 2626
+MD5sum: ec4410e512ef376e15803021d2283daf
+SHA1: f6a4b5fb93cd9995ef54eb157b913817f3f89051
+SHA256: a758cdefad851dfbb17ff5e39706dac255597eb79e48c7de0d3c0110fd7e5d14
+Section: default
+Priority: optional
+Homepage: https://github.com/Lanhild/numigi-hooks
+Description: Numigi installation hooks for various third-party applications
+License: agpl3
+Vendor: none
+
 Package: numigi-hooks-theming
 Version: 1.0
 Architecture: all
